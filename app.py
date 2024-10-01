@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import numpy as np
 import pickle
 import sys
-
+  
 app = Flask(__name__) # Initialize the flask App
 
 # Chemin du fichier du modèle
