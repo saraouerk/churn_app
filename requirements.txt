@@ -1,5 +1,6 @@
 pickleshare==0.7.5
 numpy==1.26.4
 flask==3.0.3
+pytest==6.2.5
 pandas
 scikit-learn==1.4.2
