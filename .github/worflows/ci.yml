@@ -28,4 +28,4 @@ jobs:
     # Étape pour exécuter les tests
     - name: Run tests
       run: |
-        pytest test_train.py
+        pytest test_train.py 
